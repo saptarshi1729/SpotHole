@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pothole_7" size="5.000000 3.750000" />
+    <ImageTarget name="pothole_6" size="5.000000 6.666667" />
+    <ImageTarget name="pothole_5" size="5.000000 6.666667" />
+    <ImageTarget name="pothole_4" size="5.000000 3.750000" />
+    <ImageTarget name="pothole_3" size="5.000000 3.750000" />
+    <ImageTarget name="180target" size="5.000000 2.216495" />
+    <ImageTarget name="179target" size="5.000000 3.750000" />
+    <ImageTarget name="pot2target" size="5.000000 3.327273" />
+    <ImageTarget name="potHoleTarget" size="5.000000 2.812500" />
+  </Tracking>
+</QCARConfig>
